@@ -101,6 +101,8 @@ Aggiungere una lingua è una modifica minima: basta aggiungere una chiave all'og
 
 Il tool blocca una richiesta prima ancora che il modulo Widevine di Spotify venga solo invocato. Nessuna cifratura viene violata, aggirata o decifrata in nessun modo.
 
+(L'efficacia del tool è inficiata anche dalle performance del PC, qualora all'avvio le canvas venissero caricate prima ancora del plugin potrebbero verificarsi interruzioni impreviste)
+
 
 — **Thatsvincy_** 
 
