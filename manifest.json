@@ -3,7 +3,7 @@
   "description": "Prevents external monitor disconnects caused by Spotify's Widevine/HDCP handling while loading canvas",
   "preview": "assets/logo.png",
   "main": "WVCanvasFix.js",
-  "readme": "README.md",
+  "readme": "README_en.md",
   "authors": [
     { "name": "ThatsVincy_", "url": "https://github.com/ThatsVincy" }
   ],
