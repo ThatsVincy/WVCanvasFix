@@ -101,6 +101,9 @@ Adding a language is a minimal change: simply add a key to the `STRINGS` object 
 
 The tool blocks a request before Spotify's Widevine module is even invoked. No encryption is broken, circumvented, or deciphered in any way.
 
+(The effectiveness of the tool is also affected by the performance of the PC, if at startup the canvases are loaded even before the plugin, unexpected interruptions could occur)
+
+
 — **Thatsvincy_**
 
 ### AI Information
